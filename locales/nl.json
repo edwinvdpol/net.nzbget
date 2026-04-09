@@ -3,13 +3,13 @@
     "connecting": "Bezig met verbinden..."
   },
   "error": {
-    "400": "Verzoek naar server is onjuist",
-    "401": "Inloggegevens zijn onjuist",
-    "403": "Toegang tot server is geweigerd",
-    "50x": "Server is niet beschikbaar",
-    "network": "Server is niet bereikbaar",
-    "unknown": "Er is een onbekende fout opgetreden",
-    "version": "Versie __version__ wordt niet ondersteund"
+    "400": "Verzoek naar server is onjuist.",
+    "401": "Inloggegevens zijn onjuist.",
+    "403": "Toegang tot server is geweigerd.",
+    "50x": "Server is niet beschikbaar.",
+    "network": "Server is niet bereikbaar.",
+    "unknown": "Er is een onbekende fout opgetreden.",
+    "version": "Versie __version__ wordt niet ondersteund."
   },
   "pair": {
     "password": "Wachtwoord",
